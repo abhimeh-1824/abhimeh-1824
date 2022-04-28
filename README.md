@@ -5,13 +5,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[blinkit website](https://unruffled-mcnulty-573d70.netlify.app/)**
+- 🔭 I’m currently working on **[blinkit website](https://blinkit.vercel.app/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/abhimeh-1824)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://tiny-granita-c08cd5.netlify.app/)**
 
 - 📫 How to reach me **abhishekmehra1245@gmail.com**
 
