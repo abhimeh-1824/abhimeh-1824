@@ -5,13 +5,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[blinkit website](https://blinkit.vercel.app/)**
+- 🔭 I’m currently working on **[Parking Plot](http://139.84.137.166:8000/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://abhishekmehra-protfolio.netlify.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://abhishek1245.netlify.app/)**
 
 - 📫 How to reach me **abhishekmehra1245@gmail.com**
 
