@@ -1,4 +1,4 @@
-name: Update GitHub Profile Stats
+name: Generate self-hosted profile cards
 
 on:
   schedule:
@@ -9,38 +9,22 @@ permissions:
   contents: write
 
 concurrency:
-  group: profile-stats
+  group: profile-cards
   cancel-in-progress: false
 
 jobs:
-  generate-stats:
+  generate:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout profile repository
         uses: actions/checkout@v4
 
-      - name: Generate GitHub statistics card
-        uses: stats-organization/github-readme-stats-action@v2
+      - name: Generate profile cards
+        uses: seijikohara/profile-cards-action@v0.0.5
         with:
-          card: stats
-          options: username=abhimeh-1824&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github
-          path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate top languages card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: top-langs
-          options: username=abhimeh-1824&layout=compact&theme=tokyonight&hide_border=true&langs_count=8
-          path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Commit generated cards
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/stats.svg profile/top-langs.svg
-          if ! git diff --cached --quiet; then
-            git commit -m "chore: update GitHub profile stats"
-            git push
-          fi
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: abhimeh-1824
+          cards: overview,contributions,languages
+          output-dir: assets
+          themes: light,dark
+          commit: true
