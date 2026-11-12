@@ -99,17 +99,20 @@ Full-stack 3D book-cricket application with real-time multiplayer features, game
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg" />
+  <img src="./assets/overview.light.svg" alt="GitHub profile overview" width="100%" />
+</picture>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abhimeh-1824&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg" />
+  <img src="./assets/languages.light.svg" alt="Most used programming languages" width="100%" />
+</picture>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhimeh-1824&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-
-<br />
-
-<img width="62%" src="https://streak-stats.demolab.com?user=abhimeh-1824&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg" />
+  <img src="./assets/contributions.light.svg" alt="GitHub contribution streak and calendar" width="100%" />
+</picture>
 
 ---
 
