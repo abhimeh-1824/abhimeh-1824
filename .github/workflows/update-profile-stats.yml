@@ -1,6 +1,12 @@
 name: Generate self-hosted profile cards
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - "README.md"
+      - ".github/workflows/update-profile-stats.yml"
   schedule:
     - cron: "30 5 * * *"
   workflow_dispatch:
