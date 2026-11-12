@@ -4,11 +4,11 @@
 
 <img src="./assets/profile-header.svg" width="100%" alt="Abhishek Mehra — Full Stack and Backend Engineer" />
 
-### नमस्ते 👋 I'm Abhishek Mehra
+### नमस्ते 👋
 
-**Full Stack Developer | Backend Engineering | System Design**
+I’m a Full Stack Developer with 4 years of experience building web applications, backend APIs and practical software solutions.
 
-I build end-to-end web applications, backend services and practical software solutions.
+I enjoy solving engineering problems, improving application architecture and building reliable products.
 
 <p>
   <a href="https://abhishekmehra.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0F766E?style=for-the-badge&logo=vercel&logoColor=white" /></a>
