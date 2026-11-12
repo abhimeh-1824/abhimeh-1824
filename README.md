@@ -6,9 +6,7 @@
 
 ### नमस्ते 👋
 
-I’m a Full Stack Developer with 4 years of experience building web applications, backend APIs and practical software solutions.
-
-I enjoy solving engineering problems, improving application architecture and building reliable products.
+I build web applications, backend APIs and practical software solutions, with a focus on reliable architecture and maintainable code.
 
 <p>
   <a href="https://abhishekmehra.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0F766E?style=for-the-badge&logo=vercel&logoColor=white" /></a>
