@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0F766E&height=210&section=header&text=Abhishek%20Mehra&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%26%20Backend%20Engineer&descAlignY=60&descSize=18" width="100%" />
+<img src="./assets/profile-header.svg" width="100%" alt="Abhishek Mehra — Full Stack and Backend Engineer" />
 
 ### नमस्ते 👋 I'm Abhishek Mehra
 
@@ -109,8 +109,10 @@ Full-stack 3D book-cricket application with real-time multiplayer features, game
 
 ## 📈 Contribution Activity
 
+GitHub maintains my up-to-date contribution calendar on my profile. Open the link below to view activity directly, without relying on a third-party graph image.
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhimeh-1824&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph" />
+  <a href="https://github.com/abhimeh-1824?tab=overview&from=2026-11-01&to=2026-11-30">View my contribution history on GitHub</a>
 </div>
 
 ---
@@ -133,6 +135,6 @@ Full-stack 3D book-cricket application with real-time multiplayer features, game
 
 **Build thoughtfully. Learn continuously. Improve every day.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0F766E&height=95&section=footer" width="100%" />
+
 
 </div>
