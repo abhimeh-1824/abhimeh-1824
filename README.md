@@ -5,13 +5,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Parking Plot](http://139.84.137.166:8000/)**
+- 🔭 I’m currently working on **[Prachi Industry](https://vermillion-moonbeam-fe02fb.netlify.app/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://abhishek1245.netlify.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://abhishekmehra.vercel.app/)**
 
 - 📫 How to reach me **abhishekmehra1245@gmail.com**
 
