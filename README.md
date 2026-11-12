@@ -53,6 +53,14 @@ I'm a Full Stack Developer from India with **4 years of professional experience*
   <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,postman,linux,vscode" />
 </p>
 
+### AI Tools
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-111827?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-1f2328?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+</p>
+
 ---
 
 ## 🏗️ Selected Engineering Work
@@ -101,16 +109,6 @@ Full-stack 3D book-cricket application with real-time multiplayer features, game
 
 <img width="62%" src="https://streak-stats.demolab.com?user=abhimeh-1824&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
-</div>
-
----
-
-## 📈 Contribution Activity
-
-GitHub maintains my up-to-date contribution calendar on my profile. Open the link below to view activity directly, without relying on a third-party graph image.
-
-<div align="center">
-  <a href="https://github.com/abhimeh-1824?tab=overview&from=2026-11-01&to=2026-11-30">View my contribution history on GitHub</a>
 </div>
 
 ---
